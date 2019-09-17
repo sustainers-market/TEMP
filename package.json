@@ -1,5 +1,5 @@
 {
-  "name": "@sustainer-network/<TODO replace>service-dashboard</TODO>-view-store",
+  "name": "@sustainer-network/webhook-dashboard-view-store",
   "version": "0.0.0",
   "dependencies": {
     "@sustainers/lambda": "*"
