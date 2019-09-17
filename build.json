@@ -1,9 +1,7 @@
 {
   "substitutions": {
-    <TODO replace>
     "_ID": "dashboard",
-    "_DOMAIN": "service",
-    </TODO>
+    "_DOMAIN": "webhook",
     "_SERVICE": "core",
     "_NETWORK": "sm.network",
     "_GCP_PROJECT": "smn-core",
